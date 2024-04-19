@@ -1,0 +1,19 @@
+{
+  "name": "muqaddas-fatima9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muqadddas Fatima",
+  "license": "ISC",
+  "description": "a student managment system to collect data of some teachers and students",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
